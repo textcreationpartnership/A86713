@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble acknowledgement and congratulation of many thousands young men and apprentices in and about the City of London, to his Excellency Sir Thomas Fairfax. With his Excellencies answer to the same. Dated at Kingston August 19. 1647. By the appointment of his Excellency Sir Thomas Fairfax. Signed, John Rushworth, Secr.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86713</idno>
+            <idno type="STC">Wing H3367</idno>
+            <idno type="STC">Thomason E403_1</idno>
+            <idno type="STC">ESTC R201838</idno>
+            <idno type="EEBO-CITATION">99862329</idno>
+            <idno type="PROQUEST">99862329</idno>
+            <idno type="VID">160450</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160450)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E403[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble acknowledgement and congratulation of many thousands young men and apprentices in and about the City of London, to his Excellency Sir Thomas Fairfax. With his Excellencies answer to the same. Dated at Kingston August 19. 1647. By the appointment of his Excellency Sir Thomas Fairfax. Signed, John Rushworth, Secr.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 20".</note>
+                  <note>Foxing, affecting legibility.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160450:1" rendition="simple:additions"/>
+            <pb facs="tcp:160450:1" rendition="simple:additions"/>
+            <p>THE HUMBLE Acknowledgement AND Congratulation of many thou<g ref="char:EOLhyphen"/>ſands young men and Apprentices in and about the City of London, to his Excellency Sir Thomas Fairfax.</p>
+            <p>With his Excellencies Anſwer to the ſame. Dated at Ringston Auguſt 19. 1647.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>By the appointment of his Excellency Sir Thomas Fairfax.</p>
+                        <closer>
+                           <signed>Signed, John Ruſhworth. Secr.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>Aug: 20</add> LONDON, Printed for Laurence Chapman. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160450:2"/>
+            <pb n="1" facs="tcp:160450:2"/>
+            <head>TO HIS EXCELLENCY Sir Thomas Fairfax Knight, Captaine Generall of all the Forces in ENGLAND and WALES.</head>
+            <head type="sub">The humble acknowledgement and Congratulation of thouſands of young men and Apprentices, in and about the City of London.</head>
+            <opener>
+               <salute>Moſt worthy Generall,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He extremities of this Nation grow<g ref="char:EOLhyphen"/>ing great (the Enemies thereof be<g ref="char:EOLhyphen"/>ing ſtrong, and confident of ſuc<g ref="char:EOLhyphen"/>ceſſe) and the viſible meanes of our deliverance broken, and almoſt totally conſumed, then it pleaſed the good hand of heaven to call forth your Excel<g ref="char:EOLhyphen"/>lency, and thoſe worthies with you (your faith<g ref="char:EOLhyphen"/>full Commanders, Officers, and Souldiers,) to ſave this poore and diſtreſſed Kingdome, and although at firſt your ſtrength was ſmall, your encourage<g ref="char:EOLhyphen"/>ments few, and your enemies many and powerfull, yet with all thankfulneſſe we acknowledge, you
+<pb n="2" facs="tcp:160450:3"/>were not deterred thereby; but over looking all, (eying that Almighty power, by whoſe providence you were ſet a part for ſo great a worke) you marched out in his might, and became proſpe<g ref="char:EOLhyphen"/>rous; your enemies fell before you, their armies were vanquiſhed, their ſtrong holds ſurrendred to you, and the joyfull day of Englands peace, and longed for deliverance not onely dawned, but ſhowne forth upon us; theſe clouds of feares, of ruine, of ſlavery, and oppreſſion (which had till then beſet us) began to ſcatter, and in our hopes and expectations were vaniſhing quite away.</p>
+            <p>And when, againe, our reſtleſſe enemies (ſeeing their open force could not prevaile) betook them<g ref="char:EOLhyphen"/>ſelves to helliſh policy, and under the face of friends and actions for common good, had laid ſurer (as they hoped) the foundations of their own boundleſſe power and greatneſſe, the reſtau<g ref="char:EOLhyphen"/>ration of their former tyranny, and the finall ruine of our Lawes and Liberties; and for that purpoſe had contrived the diſbanding (and that with diſ<g ref="char:EOLhyphen"/>grace) of your Excellencies Army, as the onely ob<g ref="char:EOLhyphen"/>ſtacle in the way of their Deſignes; then it pleaſed our good God againe to appeare, and your Excel<g ref="char:EOLhyphen"/>lency, with your faithfull Commanders, Officers, and victorious Army, with their induſtrious Ad<g ref="char:EOLhyphen"/>jutators, became (we gratefully acknowledge) hap<g ref="char:EOLhyphen"/>py inſtruments in his hand, to diſcover and oppoſe thoſe wicked Deſignes; whereby the dying hopes of this diſtreſſed Nation againe revived, ere long to ſee a happy ſettlement of its peace and free<g ref="char:EOLhyphen"/>dome.</p>
+            <pb n="3" facs="tcp:160450:3"/>
+            <p> And when againe, our malitious enemies had ſcattered their poyſon in this great Citty, expect<g ref="char:EOLhyphen"/>ing the venome thereof would diffuſe it ſelfe, not onely here, but from hence (as from the heart) into all the parts of this Kingdome, and had there<g ref="char:EOLhyphen"/>by ſo far prevailed, as to force the Parliament in<g ref="char:EOLhyphen"/>to a compliance with them, to engage many of the Grandees, and ſome of the Youngmen of this City to prepare and act for a new war, and in op<g ref="char:EOLhyphen"/>poſition of your Excellency, to joyne themſelves in a dangerous Bond and engagement, and (ha<g ref="char:EOLhyphen"/>ving forcibly gotten the power and Militia of this City into their hands) liſted and armed many vile and diſſolute perſons, Reformadoes and renegado ſouldiers, and by their hands had begun the tra<g ref="char:EOLhyphen"/>gedy of Warre and bloodſhed in this City, at the Guildhall thereof upon peaceable and unarmed men, and threatned the ſpeedy ruine of the well<g ref="char:EOLhyphen"/>affected therein, who would not joyne with them in their barbarous and deſtructive practices. Then againe we do with all thankfulneſſe acknowledge) that your Excellency with your renowned Army, became a bleſſing unto this City and Kingdome, and with incredible ſpeed (drawing together from parts greatly remote each from other) came ſea<g ref="char:EOLhyphen"/>ſonably to the helpe and deliverance of this City, (then with all its might acting towards its own ru<g ref="char:EOLhyphen"/>ine) and ſetling the Parliament of England, who by the tumults raiſed, and encouraged from that City, was diſperſed, and forced to quit the Hou<g ref="char:EOLhyphen"/>ſes, and depart thence, to your Excellency for protection.</p>
+            <pb n="4" facs="tcp:160450:4"/>
+            <p> All which your moſt worthy ſervices for your native country, as we cannot but with all joy and thankefulneſſe acknowledge, ſo we doubt not, but the memoriall of them will be a crown of glory and honour upon your head, and upon the heads of your faithfull commanders and ſouldiers to all poſterity.</p>
+            <p>And although we could not (as we would ma<g ref="char:EOLhyphen"/>nifeſt our hearts in a viſible acting for you in this late time of need, yet let your Excellency be plea<g ref="char:EOLhyphen"/>ſed to accept of our refuſals to joyne or comply with any thing bearing a face of oppoſition to you, (notwithſtanding the threats of death for ſo doing) as an undoubted teſtimony of our reſolution, to live and die with your Excellency and your army, in ſetling his Majeſties rights, the Parliaments priviledges, and the peace and freedome of this Nation, the which we doe ſtill retaine, and ſhall further manifeſt, as God ſhall give an oppertunity, and your Excellency require it at our hands.</p>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:160450:4"/>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have received your congratula<g ref="char:EOLhyphen"/>tion of the late endeavours of this Army, and great ſucceſſes with which God hath bleſt us againſt the open and ſecret Enemies to the intereſt of this Kingdome, manifeſting with many cordiall expreſſions your good reſentment of our late procee<g ref="char:EOLhyphen"/>dings in proſecution of thoſe publique ends, for the accompliſhment whereof you have not onely declined and refuſed compliance with the Kingdomes Enemys, but have freely tendered a joynt adventure of your ſelves with us when occaſion ſhall require: All which I cannot but gladly receive with a thankefull accep<g ref="char:EOLhyphen"/>tance, returning the like acknoweldgement of your good and honeſt offer, as you did of our endea<g ref="char:EOLhyphen"/>vours, and doe deſire that you will continue ſtill in your ſeverall places the promotion and purſuance of thoſe publique ends afore-mentioned, and I doubt not but the ſame Divine providence that hath been our guide hitherto will ſtill direct us and all honeſt men going hand in hand with us toward an happy
+<pb n="6" facs="tcp:160450:5"/>concluſion of our preſent troubles and diſtractions, and ſetling of the King, Parliament, and Kingdom in ſafe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, peace, and freedome.</p>
+            <closer>
+               <dateline>Kingſton, <date>Auguſt 19. 1647.</date>
+               </dateline>
+               <signed>By the appointment of his Excellenc<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Sir Thomas Fairfax. Signed John Ruſhworth, Sec.</signed>
+            </closer>
+            <trailer>For the young men and the Apprentic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in and about the City of London, who ſubſcribed a Paper, entituled, The humble Acknowledgement and Congra<g ref="char:EOLhyphen"/>tulation, &amp;c.</trailer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
